@@ -126,7 +126,7 @@
             // pos 15 = extra key on roBaish, mapped to &none (unused)
 
             bindings = <
-&kp Q           &kp F   &kp U         &kp L                 &kp AT_SIGN                                   &kp Z        &kp R  &kp Y  &kp W  &kp P
+&kp Q           &kp F   &kp L         &kp EXCLAMATION       &kp AT_SIGN                                   &kp Z        &kp R  &kp Y  &kp W  &kp P
 &kp O           &kp E   &kp U         &kp I                 &kp MINUS    &trans            &kp LEFT_WIN   &kp K        &kp T  &kp N  &kp S  &kp H
 &sk LEFT_SHIFT  &kp X   &kp C         &kp V                 &kp COLON    &kp TAB           &kp DELETE     &kp G        &kp D  &kp M  &kp J  &kp B
 &kp LCTRL       &trans  &kp LEFT_ALT  &mt LEFT_SHIFT COMMA  &lt 3 A      &lt 2 PERIOD      &kp BACKSPACE  &lt 1 SPACE                       &kp ENTER
